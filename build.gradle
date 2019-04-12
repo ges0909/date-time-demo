@@ -9,6 +9,6 @@ repositories {
 }
 
 dependencies {
-    testImplementation 'junit:junit:4+'
+    testCompile 'junit:junit:4+'
     testCompile group: 'org.assertj', name: 'assertj-core', version: '3+'
 }
